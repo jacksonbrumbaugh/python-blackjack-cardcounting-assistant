@@ -2,6 +2,7 @@
 This simple CLI (command-line interface) script will assist counting cards in BlackJack.
 
 Some BlackJack Background
+
 BlackJack is a common table-top casino card game in which players face-off against a dealer to see who can get as close to 21 w/o going over.  Multiple players may be seated at a table to play against the dealer.
 
 Rules of BlackJack
